@@ -1,0 +1,6 @@
+group15\ltm_moviesearcher\dto\MovieServices.class
+group15\ltm_moviesearcher\server\Server.class
+group15\ltm_moviesearcher\server\ServerThread.class
+group15\ltm_moviesearcher\dto\MovieDetail.class
+group15\ltm_moviesearcher\server\ServerThreadBus.class
+group15\ltm_moviesearcher\dto\MovieResponse.class
