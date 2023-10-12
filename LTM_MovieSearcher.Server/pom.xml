@@ -27,13 +27,6 @@
         </dependency>
         
         <dependency>
-            <groupId>org.json</groupId>
-            <artifactId>json</artifactId>
-            <version>20200518</version>
-            <type>jar</type>
-        </dependency>
-        
-        <dependency>
             <groupId>javax.servlet</groupId>
             <artifactId>servlet-api</artifactId>
             <version>2.5</version>
@@ -44,12 +37,6 @@
             <groupId>com.google.code.gson</groupId>
             <artifactId>gson</artifactId>
             <version>2.9.0</version>
-        </dependency>
-         
-        <dependency>
-            <groupId>chrriis</groupId>
-            <artifactId>DJNativeSwing</artifactId>
-            <version>1.0.2</version>
         </dependency>
     </dependencies>
 </project>
